@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #FF98E9;
+    color: white;
+}
+
+body:hover{
+    transition: 3s linear;
+    background-color: #712ba6;
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 25px;
+}
